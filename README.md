@@ -1,5 +1,6 @@
 A Data Analysis Project involving platforms like Netflix, Amazon, and Spotify can be an exciting venture because it allows you to compare and contrast how these companies handle user data, 
 customer behavior, and content performance. Below is a structured summary of how you might approach such a multi-platform project, along with specific areas of focus for each platform.
+
 Project Goal :-----
 The goal of this type of project is often to understand user behavior, identify trends,
 and make data-driven recommendations that can improve platform services and user engagement. Key questions to explore might include:
