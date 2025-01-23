@@ -88,5 +88,5 @@ For Spotify: Focus on improving user engagement by offering tailored playlists o
 
 Conclusion:
 This multi-platform data analysis project offers a comprehensive look at user behavior, content consumption, 
-and product preferences across different industries—streaming, e-commerce, and music. 
+and product preferences across different industries streaming, e-commerce, and music. 
 The insights generated could lead to improvements in recommendation systems, customer engagement, and overall user experience on each platform.
